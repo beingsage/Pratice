@@ -1,0 +1,1 @@
+print("Welcome to Topic 2 coding exercises.")
