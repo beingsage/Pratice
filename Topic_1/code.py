@@ -1,1 +1,0 @@
-print("Welcome to Topic 1 coding exercises.")
